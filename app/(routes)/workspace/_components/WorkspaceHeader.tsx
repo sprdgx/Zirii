@@ -2,12 +2,13 @@ import { Button } from '@/components/ui/button'
 import { Link, Save } from 'lucide-react'
 import Image from 'next/image'
 import React from 'react'
+import Logo from '@/components/img/logo.png'
 
 function WorkspaceHeader({onSave}:any) {
   return (
     <div className='p-3 border-b flex justify-between items-center'>
       <div className='flex gap-2 items-center'>
-        <Image src={'/logo-1.png'}
+        <Image src={Logo}
           alt='logo'
           height={40}
           width={40} />
