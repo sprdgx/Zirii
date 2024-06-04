@@ -19,7 +19,7 @@ function Hero() {
       </h1>
 
       <p className="mt-4 sm:text-xl/relaxed text-slate-200">
-      All-in-one markdown editor, collaborative canvas, and diagram-as-code builder
+      Specialsed Tools Editor, collaborative canvas for Artists.
       </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
